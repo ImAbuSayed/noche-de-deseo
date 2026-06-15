@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de deseo
+
+This log tracks the cryptographic history and versioning for the song **Noche de deseo** (noche-de-deseo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:36:58.401968 | `v1` | `7434f358b24eb40022fba2a588c012db19153fc23d70e5a26daee01601e46dc7` | `498b674709e50bfbb3445faaaec44b8d540fbc9a236f82769f773734a76906b8` | `2026-06-15_noche-de-deseo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
